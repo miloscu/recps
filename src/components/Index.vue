@@ -112,6 +112,7 @@ ul {
   right: 4px;
 }
 .edit {
+  
   bottom: 4px;
   right: 4px;
 }
